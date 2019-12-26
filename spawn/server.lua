@@ -5,7 +5,8 @@ spawnLocation = {
     town = { 170402, 38013, 1170, "-", "-", "" },
     city = { 211526, 176056, 1260, "", "", "" },
     desert_town = { 16223, 8033, 2070, "-", "-", "" },
-    old_town = { 39350, 138061, 1580, "", "", "" }
+    old_town = { 212745.000000, 157043.000000, 1431.0, "", "", "" },
+    police_station = {169277, 193489, 1307, "", "", "" }
 }
 
 AddRemoteEvent("ServerSpawnMenu", function(player)
